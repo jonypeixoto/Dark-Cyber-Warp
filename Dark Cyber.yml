@@ -1,0 +1,24 @@
+name: Dark Cyber # Name for the theme
+accent: '#00FF4F' # Accent color for UI elements
+background: '#000000' # Terminal background color
+details: darker # Whether the theme is lighter or darker.
+foreground: '#1400FF' # The foreground color.
+terminal_colors: # Ansi escape colors.
+  bright:
+    black: '#292929'
+    blue: '#4164FF'
+    cyan: '#4DBCED'
+    green: '#8FFF00'
+    magenta: '#9354FF'
+    red: '#EF6B73'
+    white: '#FFFFFF'
+    yellow: '#1400FF'
+  normal:
+    black: '#1A1A1A'
+    blue: '#FF0045'
+    cyan: '#007B88'
+    green: '#08D220'
+    magenta: '#FF00BF'
+    red: '#FF000F'
+    white: '#9C9C9C'
+    yellow: '#DFC200'
